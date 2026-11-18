@@ -1,0 +1,1 @@
+# akilli-sayi-analiz-sistemi
